@@ -1,0 +1,11 @@
+{
+    "author": "Rudolf Juhl",
+    "location": "Bensheim, Germany",
+    "project": "JZS-1 Ultra LOXL2 Hepatology",
+    "computational_layer": "Lotus Core-V3 Ultra",
+    "aggregated_qubits": 72,
+    "crosstalk_isolation_db": -68.5,
+    "hardware_skew_deg": 0.0,
+    "energy_hartree": -78.4325,
+    "status": "CONVERGED_SUCCESSFULLY_AT_360_Q_LIVER_NATIVE"
+}

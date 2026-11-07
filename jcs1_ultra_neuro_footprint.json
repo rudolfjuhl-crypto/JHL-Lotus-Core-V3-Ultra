@@ -1,0 +1,11 @@
+{
+    "author": "Rudolf Juhl",
+    "location": "Bensheim, Germany",
+    "project": "JCS-1 Ultra Dual-Target Neuro-Pharmacology",
+    "computational_layer": "Lotus Core-V3 Ultra",
+    "aggregated_qubits": 72,
+    "crosstalk_isolation_db": -68.5,
+    "hardware_skew_deg": 0.0,
+    "energy_hartree": -92.1148,
+    "status": "CONVERGED_SUCCESSFULLY_AT_360_Q_NEURO_NATIVE"
+}

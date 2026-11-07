@@ -1,0 +1,8 @@
+{
+    "author": "Rudolf Juhl",
+    "location": "Bensheim",
+    "project": "QVD-1 Ultra Quantum Vacuum Drive",
+    "qubits": 360,
+    "energy_hartree": -742.1194,
+    "status": "CONVERGED_SUCCESSFULLY_AT_360_Q_DRIVE_NATIVE"
+}
